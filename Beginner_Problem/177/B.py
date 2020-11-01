@@ -15,3 +15,5 @@ for i in range(len(t)):
             
 
 print(min(ans))
+
+
